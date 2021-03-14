@@ -20,8 +20,18 @@ Para Confirmar alterações
 Para verificar as alterações
 
 9 - 'git log'
-10 - 'git clone URL' para baixar um repositorio remoto
+10 - 'git clone URL da Pessoa ' para baixar um repositorio remoto
 11 - 'git push'
+
+Copiar um Repositório de alguém 
+
+12 - Fork (copiar repositório de outra pessoa)
+13 - 'git clone URL da Pessoa'
+14 - Faz as alterações 
+15 - Pull Request (Envia para o dono do repositório)
+
+16 - 'git checkout -b' para criar um novo branch (opcional)
+
 
 Comandos para enviar para GitHub
 
