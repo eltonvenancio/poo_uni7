@@ -2,7 +2,9 @@ Passos;
 
 1 - Instalar o Git
 2 - Escolher umas pasta que será o repositório (dir, mkdir e cd)
+  - C:\Users\Elton Venancio\Google Drive\== UNI 7 ==\3º Semestre\03 - PROGRAMAÇÃO COM ORIENTAÇÃO A OBJETOS\Repositorio>_
 3 - 'git init' - inicia um novo repositório do Git
 4 - 'git status' - para verificar o estados dos arquivos no repositório
 5 - 'git add' - para incluir arquivos no tracking do Git
-6 - 'git commit -m "Incluíndo primeiro arquivo mo repositório"' -   para confirmar as mudanças do stage para repositório
+  - git add Passo-a-passo.txt
+6 - 'git commit -m "Incluíndo primeiro arquivo no repositório"'- para confirmar as mudanças do stage para o repositório
