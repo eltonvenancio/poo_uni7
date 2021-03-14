@@ -1,0 +1,8 @@
+Passos;
+
+1 - Instalar o Git
+2 - Escolher umas pasta que será o repositório (dir, mkdir e cd)
+3 - 'git init' - inicia um novo repositório do Git
+4 - 'git status' - para verificar o estados dos arquivos no repositório
+5 - 'git add' - para incluir arquivos no tracking do Git
+6 - 'git commit -m "Incluíndo primeiro arquivo mo repositório"' -   para confirmar as mudanças do stage para repositório
