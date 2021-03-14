@@ -18,3 +18,10 @@ Para Confirmar alterações
 Para verificar as alterações
 
 7 - 'git log'
+
+Comandos para enviar para GitHub
+
+git remote add origin https://github.com/eltonvenancio/poo_uni7.git
+git branch -M main
+git push -u origin main
+
