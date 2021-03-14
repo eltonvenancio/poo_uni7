@@ -1,4 +1,4 @@
-Passos;
+Passos-a-passo;
 
 1 - Instalar o Git
 2 - Escolher umas pasta que será o repositório (dir, mkdir e cd)
